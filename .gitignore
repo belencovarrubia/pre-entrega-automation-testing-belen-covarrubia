@@ -1,0 +1,23 @@
+# Entorno virtual de Python
+venv/
+.env/
+
+
+# Archivos de Pytest
+__pycache__/
+*.py[cod]
+*.log
+.reports/
+reports/
+*.html
+drivers/chrome-win64/
+
+
+# Config de VS Code
+.vscode/
+
+# Archivos temporales
+*.DS_Store
+*.swp
+*.swo
+Thumbs.db
